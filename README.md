@@ -26,14 +26,14 @@ KPIs tracked in this Project:
 
 2-Yearly Meeting Count
 
-3.1Cross Sell--Target,Achive,new
+3.1 Cross Sell--Target,Achive,new
 
-3.1New-Target,Achive,new
+3.2 New-Target,Achive,new
 
-3.1Renewal-Target, Achive,new
+3.3 Renewal-Target, Achive,new
 
-4. Stage Funnel by Revenue
-  
-6. 5. No of meeting By Account Exe
+4.Stage Funnel by Revenue
+
+5.No of meeting By Account Exe
    
-6- Top Open Opportunity
+6.Top Open Opportunity
